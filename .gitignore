@@ -1,0 +1,9 @@
+#error.log
+
+#for multiple files (all .logs files will be ignored )
+
+*.log
+
+#for ignoring folder
+#folderName/
+
