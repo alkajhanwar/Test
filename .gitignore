@@ -1,7 +1,10 @@
 #error.log
 
 #for multiple files (all .logs files will be ignored )
+<<<<<<< HEAD
 
+=======
+>>>>>>> myBranch
 *.log
 
 #for ignoring folder
